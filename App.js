@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import BottomTabNavigator from ".BottomTabNavigator";
+import BottomTabNavigator from "./BottomTabNavigator";
 
 export default class App extends Component {
   render() {
